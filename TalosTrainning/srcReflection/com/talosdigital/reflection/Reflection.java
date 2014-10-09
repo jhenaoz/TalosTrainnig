@@ -45,7 +45,7 @@ public class Reflection {
 				log.info(field.getType() + " "+ field.getName());
 			}else{
 				log.info(field.getType() + " "+ field.getName());
-				log.warn("New Object Found");
+				log.warn("New Object Found...getting info");
 				getObjectDetails(field.getType());
 			}
 		}

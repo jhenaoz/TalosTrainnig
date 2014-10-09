@@ -6,7 +6,7 @@ package com.talosdigital.exceptions;
  * @author jhenaoz
  * @version 02/10/2014
  */
-public class NegativeNumberException extends Exception {
+public class NegativeNumberException extends RuntimeException {
 
 	private static final long serialVersionUID = -2701180203529877900L;
 	String message;

@@ -3,3 +3,7 @@
 .class
 .project
 .settings
+/.classpath
+/demoApplication.log
+/LogFile.log
+/ReflectionFile.log
