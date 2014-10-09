@@ -3,9 +3,6 @@ package com.talosdigital.reflection;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
-import java.lang.reflect.Type;
-import java.lang.reflect.TypeVariable;
-
 import static com.talosdigital.util.LoggerUtil.*;
 
 /**
